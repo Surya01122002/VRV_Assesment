@@ -118,7 +118,7 @@ To run the project locally, follow these steps:
 
 **The application is live and can be accessed here**:
 
-[**RBAC UI Live**](https://surya01122002.github.io/dashboard)
+[**RBAC UI Live**](https://surya01122002.github.io/VRV_Assesment/)
 
 ## **Screenshots**
 
